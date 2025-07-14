@@ -305,7 +305,7 @@
 <details><summary><strong> 프로젝트 </strong></summary>
 
 <details><summary>프로젝트 등록(관리자)</summary>
-<img src="" alt="프로젝트 등록" />
+<img src="이미지 등록" alt="프로젝트 등록" />
 </details>
 
 <details><summary>프로젝트 수정/삭제(관리자)</summary>
